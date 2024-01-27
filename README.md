@@ -1,6 +1,4 @@
-# exam-admin
-
-基于Spring Boot+Vue前后端分离的在线考试系统
+# 在线考试系统
 
 ## 一、介绍
 
@@ -47,29 +45,40 @@
 
 ## 二、管理员部分页面展示
 
-![img_1.png](..%2Fgithub%2Fexam-system%2Fimgs%2Fimg_1.png)
+![img_1.png](imgs/img_1.png)
 
-![img_2.png](..%2Fgithub%2Fexam-system%2Fimgs%2Fimg_2.png)
+![img_2.png](imgs/img_2.png)
 
-![img_3.png](..%2Fgithub%2Fexam-system%2Fimgs%2Fimg_3.png)
+![img_3.png](imgs/img_3.png)
 
 ## 三、教师部分页面展示
 
-![img_7.png](..%2Fgithub%2Fexam-system%2Fimgs%2Fimg_7.png)
+![img_7.png](imgs/img_7.png)
 
-![img_8.png](..%2Fgithub%2Fexam-system%2Fimgs%2Fimg_8.png)
+![img_8.png](imgs/img_8.png)
 
-![img_9.png](..%2Fgithub%2Fexam-system%2Fimgs%2Fimg_9.png)
+![img_9.png](imgs/img_9.png)
 
 ## 四、学生部分页面展示
 
-![img_4.png](..%2Fgithub%2Fexam-system%2Fimgs%2Fimg_4.png)
+![img_4.png](imgs/img_4.png)
 
-![img_5.png](..%2Fgithub%2Fexam-system%2Fimgs%2Fimg_5.png)
+![img_5.png](imgs/img_5.png)
 
-![img_6.png](..%2Fgithub%2Fexam-system%2Fimgs%2Fimg_6.png)
+![img_6.png](imgs/img_6.png)
 
+## 五、视频演示
 
-## 五、 9.9￥ 获取完整源码+sql，需要加Q：3808981644 备用Q：3577148218
+```
 
-![img.png](..%2Fgithub%2Fexam-system%2Fimg.png)
+链接：https://pan.baidu.com/s/1ltg7PQYVl_4IRLpDjUbY5g?pwd=m12w
+
+提取码：m12w
+
+--来自百度网盘超级会员V6的分享
+
+```
+
+## 六、 9.9￥ 获取完整源码+sql，需要加Q：3808981644 备用Q：3577148218
+
+![img.png](img.png)
