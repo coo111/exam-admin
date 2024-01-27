@@ -1,5 +1,6 @@
 # 在线考试系统
 
+
 ## 一、介绍
 
 运行环境:idea或eclipse vscode 数据库:mysql
@@ -81,4 +82,4 @@
 
 ## 六、 9.9￥ 获取完整源码+sql，需要加Q：3808981644 备用Q：3577148218
 
-![img.png](img.png)
+![img.png](imgs/img.png)
